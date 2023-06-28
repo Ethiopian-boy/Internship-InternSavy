@@ -1,0 +1,21 @@
+.timer {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#countdown {
+    font-size: 48px;
+}
+
+.input-section {
+    text-align: center;
+    margin-top: 20px;
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+}
